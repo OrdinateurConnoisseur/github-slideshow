@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-MY text1!!1!
+[hire me](www.linkedin.com/in/adrian-preston)
 Use the left arrow to go back!
